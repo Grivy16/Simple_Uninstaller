@@ -40,3 +40,6 @@
     python app.py
 
 ***
+
+<p align="center"><img width="848" height="644" alt="image" src="https://github.com/user-attachments/assets/c09cf2da-f9de-435e-bc62-419dea1ed05b" /></p>
+
